@@ -4,7 +4,7 @@ Easy to use timing info machine for your application.
 --
 
 ```php
-include 'debug.php';
+include 'timer.php';
 $chrono = new timer;
 ```
 
